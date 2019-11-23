@@ -1,9 +1,15 @@
 # pfe-2019-pfe2019-028
 pfe-2019-pfe2019-028 created by GitHub Classroom
 
-# We use 3 private repositories 
+# We use 5 private repositories
+## One for each service described in the wiki of the current repo and one for the GUI
+
 https://github.com/AlixH/pfe-path
 
-https://github.com/AlixH/pfe-tree
+https://github.com/AlixH/pfe-rdf
+
+https://github.com/AlixH/pfe-task
+
+https://github.com/AlixH/pfe-device
 
 https://github.com/AlixH/pfe-gui
